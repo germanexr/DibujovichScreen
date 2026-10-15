@@ -1,0 +1,8 @@
+/.tools/
+/ghidra-project*/
+/Mousetrack-analysis.exe
+/obj/
+/dist/
+/run.out.txt
+/run.err.txt
+*.log
